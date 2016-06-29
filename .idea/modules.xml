@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AidlServerTest/AidlServerTest.iml" filepath="$PROJECT_DIR$/AidlServerTest/AidlServerTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Aidlclienttest/Aidlclienttest.iml" filepath="$PROJECT_DIR$/Aidlclienttest/Aidlclienttest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Bindservice/bindservice.iml" filepath="$PROJECT_DIR$/Bindservice/bindservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Service.iml" filepath="$PROJECT_DIR$/Service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StartService/MusicTest.iml" filepath="$PROJECT_DIR$/StartService/MusicTest.iml" />
+    </modules>
+  </component>
+</project>
